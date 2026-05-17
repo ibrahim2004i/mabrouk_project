@@ -1,0 +1,13 @@
+.git
+.gitignore
+node_modules
+vendor
+.env
+.gcloudignore
+Dockerfile
+.dockerignore
+scratch_check_db.php
+migrate_*.php
+run_*.php
+FullSeeder.php
+*.sql

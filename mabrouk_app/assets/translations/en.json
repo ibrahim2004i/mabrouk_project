@@ -1,0 +1,47 @@
+{
+  "app_name": "Mabrouk App",
+  "common": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "search": "Search for a service...",
+    "book_now": "Book Now",
+    "details": "View Details",
+    "save": "Save",
+    "cancel": "Cancel",
+    "language": "English",
+    "currency": "JOD"
+  },
+  "sections": {
+    "halls": "Wedding Halls",
+    "cars": "Wedding Cars",
+    "cakes": "Cakes & Sweets",
+    "dresses": "Wedding Dresses",
+    "suits": "Men's Suits",
+    "photographers": "Photographers",
+    "chalets": "Chalets",
+    "showrooms": "Showrooms"
+  },
+  "fields": {
+    "price": "Price",
+    "location": "Location",
+    "capacity": "Capacity",
+    "date": "Date",
+    "phone": "Phone Number",
+    "description": "Description",
+    "rating": "Rating"
+  },
+  "admin": {
+    "dashboard": "Admin Dashboard",
+    "users": "User Management",
+    "bookings": "Booking Management",
+    "reports": "Reports & Analytics",
+    "add_new": "Add New Item"
+  },
+  "messages": {
+    "welcome": "Welcome to Mabrouk",
+    "auth_required": "Please login to continue",
+    "no_data": "No results found",
+    "success_booking": "Booking successful"
+  }
+}
